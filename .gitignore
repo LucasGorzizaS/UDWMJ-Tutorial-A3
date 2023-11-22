@@ -10,3 +10,5 @@ modeloapp/__pycache__/*
 /apps/clients/migrations/*
 /apps/orders/__pycache__/*
 /apps/orders/migrations/*
+/apps/categories/__pycache__/*
+/apps/categories/migrations/*
